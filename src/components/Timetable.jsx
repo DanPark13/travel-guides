@@ -1,9 +1,9 @@
 import React from "react";
 import Event from "./Event";
 
-const Calendar = () => {
+const Timetable = () => {
     return (
-        <div className="Calendar">
+        <div className="Timetable">
             <table>
                 <thead>
                     <tr>
@@ -154,4 +154,4 @@ const Calendar = () => {
     )
 }
 
-export default Calendar;
+export default Timetable;

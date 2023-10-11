@@ -15,3 +15,33 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+th {
+  width: 120px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.time {
+  height: 40px;
+}
+
+.pink {
+  background: pink;
+}
+
+.blue {
+  background: rgb(190, 219, 229);
+}
+
+.green {
+  background: rgb(202, 245, 222);
+}
+
+.yellow {
+  background: rgb(245, 241, 202);
+}
